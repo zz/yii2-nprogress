@@ -6,7 +6,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace edgardmessias\assets\nprogress;
+namespace easyconn\nprogress;
 
 use yii\helpers\Json;
 use yii\web\AssetBundle;

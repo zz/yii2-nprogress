@@ -1,5 +1,5 @@
 {
-    "name": "edgardmessias/yii2-nprogress",
+    "name": "easyconn/yii2-nprogress",
     "description": "Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium for Yii2 Framework.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","nprogress","assets","pjax"],
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "edgardmessias\\assets\\nprogress\\": ""
+            "easyconn\\nprogress\\": ""
         }
     }
 }
