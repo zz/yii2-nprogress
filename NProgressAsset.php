@@ -26,9 +26,6 @@ class NProgressAsset extends AssetBundle
     public $js = [
         'nprogress.js'
     ];
-    public $jsOptions = [
-        'position' => View::POS_END
-    ];
     public $publishOptions = [
         'only'   => [
             '/nprogress.css',
